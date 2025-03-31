@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 24f1001631@ds.study.iitm.ac.in
         uses: actions/checkout@v4
 
       - name: Make changes and commit
